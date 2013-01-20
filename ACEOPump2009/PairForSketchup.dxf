@@ -1,0 +1,1426 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+999
+L-Edit DXF writer version 2.2
+  9
+$PLINEWID
+ 40
+10.000000
+  9
+$EXTMIN
+ 10
+-70.000000
+ 20
+-17.500000
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+70.000000
+ 20
+17.500000
+ 30
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+ 70
+       1
+  0
+LTYPE
+  2
+CONTINUOUS
+ 70
+      64
+  3
+CONTINUOUS
+ 72
+      65
+ 73
+       0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+ 70
+     115
+  0
+LAYER
+  2
+0
+ 70
+      64
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+_____Special_Layers_____
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+Icon_Outline
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     254
+  0
+LAYER
+  2
+Error_Layer
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+_____Special_Utility_Laye42443
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+Label
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Label_Filled
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     172
+  0
+LAYER
+  2
+Ruler
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Device_Label
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+NotExists
+ 70
+       4
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+_____Drawn_Layers______
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+N_Well
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Deep_N_Well
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+P_Well
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Active
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      80
+  0
+LAYER
+  2
+Thick_Active
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      92
+  0
+LAYER
+  2
+N_Select
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     123
+  0
+LAYER
+  2
+P_Select
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     203
+  0
+LAYER
+  2
+Poly
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+Silicide_Block
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Active_Contact
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     138
+  0
+LAYER
+  2
+Poly_Contact
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     254
+  0
+LAYER
+  2
+Metal1
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+Via1
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal2
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     254
+  0
+LAYER
+  2
+Via2
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal3
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     203
+  0
+LAYER
+  2
+Via3
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal4
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      43
+  0
+LAYER
+  2
+Overglass
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     203
+  0
+LAYER
+  2
+_____Drawn_ID_Layers_____
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+SubCkt_ID
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Capacitor_ID
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Resistor_ID
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Diode_ID
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     254
+  0
+LAYER
+  2
+LPNP_ID
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+PNP_Emitter_ID
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+_____Common_Derived_Layers_____
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+field_active
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+ChipSubstrate
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+diff
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+Gate
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+HV_Gate
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal4_-_Pad
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+ndiff
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+pdiff
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Poly_Silicide_Block_Resistor
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+_____DRC_Derived_Layers_____
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+Select
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+Active_Contact_not_on_Active
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+Metal1_Density
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+Metal1_W_1_2__-0_6
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal1_W_1_2_
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal2_Density
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+Metal2_W_1_2_-0_6
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal2_W_1_2_
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal3_Density
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+Metal3_W_1_2_-0_6
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal3_W_1_2_
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal4_Density
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+Metal4_W_1_2_-0_6
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Metal4_W_1_2_
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+n_Active
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+Not_Selected_Active
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+p_Active
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+Poly_Contact_not_on_Poly
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+Poly_Density
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+pSelect_nSelect
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      20
+  0
+LAYER
+  2
+_____Extract_Derived_Laye41867
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+Substrate
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     254
+  0
+LAYER
+  2
+ActNSelNotPoly
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      92
+  0
+LAYER
+  2
+ActPSelNotPoly
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      80
+  0
+LAYER
+  2
+ActPSelNotPoly_and_NOT_SB
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+ActPSelNotPoly_and_SB
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Lateral_Diode
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     123
+  0
+LAYER
+  2
+LPNP_Collector
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+LPNP_Emitter
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+n_well_wire
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Deep_N_Well_Wire
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+N-Channel
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+N-Channel_Deep
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+NDiff_Diode
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+      92
+  0
+LAYER
+  2
+NDiff_Resistor
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+NMOS_Capacitor
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+ntran
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+ntran_Deep
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+ntran_HV
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+NWell_Resistor
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+P-Channel
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+PDiff_Diode
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     203
+  0
+LAYER
+  2
+PDiff_Resistor
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+PMOS_Capacitor
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Poly_Resistor
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+poly_wire
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+ptran
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+ptran_HV
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+SB_NDiff_Resistor
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+SB_PDiff_Resistor
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+_____XS_Derived_Layers_____
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+     160
+  0
+LAYER
+  2
+XS_Deep_N_Well
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+XS_N_Well
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+XS_P_Well
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Not_Active
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Not_Active_Contact
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Not_Metal1
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Not_Metal2
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Not_Metal3
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Not_Metal4
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Not_Poly_Contact
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Not_Thick_Channel
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+Not_Thin_Channel
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+NotPoly
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+NotVia1
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+NotVia2
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+LAYER
+  2
+NotVia3
+ 70
+       0
+  6
+CONTINUOUS
+ 62
+       7
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  2
+NarrowNegativeElectrode
+  3
+NarrowNegativeElectrode
+  8
+0
+ 67
+       0
+ 70
+       0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POLYLINE
+  8
+N_Well
+ 66
+       1
+ 70
+       1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  8
+N_Well
+ 10
+-70.000000
+ 20
+5.000000
+ 30
+0.0
+  0
+VERTEX
+  8
+N_Well
+ 10
+-45.000000
+ 20
+5.000000
+ 30
+0.0
+  0
+VERTEX
+  8
+N_Well
+ 10
+60.000000
+ 20
+5.000000
+ 30
+0.0
+  0
+VERTEX
+  8
+N_Well
+ 10
+50.000000
+ 20
+-5.000000
+ 30
+0.0
+  0
+VERTEX
+  8
+N_Well
+ 10
+-40.000000
+ 20
+-5.000000
+ 30
+0.0
+  0
+VERTEX
+  8
+N_Well
+ 10
+-70.000000
+ 20
+-5.000000
+ 30
+0.0
+  0
+VERTEX
+  8
+N_Well
+ 10
+-70.000000
+ 20
+-5.000000
+ 30
+0.0
+  0
+SEQEND
+  8
+N_Well
+  0
+POLYLINE
+  8
+Active
+ 66
+       1
+ 70
+       1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  8
+Active
+ 10
+-70.000000
+ 20
+-5.000000
+ 30
+0.0
+  0
+VERTEX
+  8
+Active
+ 10
+-40.000000
+ 20
+-5.000000
+ 30
+0.0
+  0
+VERTEX
+  8
+Active
+ 10
+-40.000000
+ 20
+5.000000
+ 30
+0.0
+  0
+VERTEX
+  8
+Active
+ 10
+-70.000000
+ 20
+5.000000
+ 30
+0.0
+  0
+SEQEND
+  8
+Active
+  0
+ENDBLK
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+INSERT
+  8
+0
+  2
+NarrowNegativeElectrode
+ 10
+0.0
+ 20
+-12.500000
+ 30
+0.0
+ 41
+-1.000000
+ 42
+1.000000
+  0
+INSERT
+  8
+0
+  2
+NarrowNegativeElectrode
+ 10
+0.0
+ 20
+12.500000
+ 30
+0.0
+  0
+ENDSEC
+  0
+EOF
